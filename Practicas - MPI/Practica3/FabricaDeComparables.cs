@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Practica3
+{
+    public abstract class FabricaDeComparables       //ejercicio4 - Practica3
+    {
+        GeneradorDeDatosAleatorios G=new GeneradorDeDatosAleatorios();
+        public abstract Comparable crearAleatorio();
+        public abstract Comparable crearPorTeclado();
+        
+        public static Comparable Crear_comparables(int opcion1, int opcion2)
+        {
+            FabricaDeComparables FM;     //de acuerdo a la opcion1 elegida se usara una FabricaDeAlumnos o una FabricaDeNumeros
+            if (opcion1 == 1)
+                FM = new FabricaDeAlumnos();
+            if (opcion1==2)
+                FM = new FabricaDeNumeros();
+            else
+                FM = new FabricaDeVendedores();
+
+            if (opcion2 == 1)                   //De acuerdo a la opcion2 elegida se creara un comparable aleatorio o por teclado
+                return FM.crearAleatorio();
+            else
+                return FM.crearPorTeclado();                
+        }
+
+    }
+
+    
+}

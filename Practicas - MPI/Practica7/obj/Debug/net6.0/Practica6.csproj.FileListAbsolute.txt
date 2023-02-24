@@ -1,0 +1,15 @@
+C:\Users\W10-PC\Desktop\Metodologia de programacion I\Practicas - MPI\Practicas\Practica6\bin\Debug\net6.0\Practica6.exe
+C:\Users\W10-PC\Desktop\Metodologia de programacion I\Practicas - MPI\Practicas\Practica6\bin\Debug\net6.0\Practica6.deps.json
+C:\Users\W10-PC\Desktop\Metodologia de programacion I\Practicas - MPI\Practicas\Practica6\bin\Debug\net6.0\Practica6.runtimeconfig.json
+C:\Users\W10-PC\Desktop\Metodologia de programacion I\Practicas - MPI\Practicas\Practica6\bin\Debug\net6.0\Practica6.dll
+C:\Users\W10-PC\Desktop\Metodologia de programacion I\Practicas - MPI\Practicas\Practica6\bin\Debug\net6.0\Practica6.pdb
+C:\Users\W10-PC\Desktop\Metodologia de programacion I\Practicas - MPI\Practicas\Practica6\obj\Debug\net6.0\Practica6.csproj.AssemblyReference.cache
+C:\Users\W10-PC\Desktop\Metodologia de programacion I\Practicas - MPI\Practicas\Practica6\obj\Debug\net6.0\Practica6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10-PC\Desktop\Metodologia de programacion I\Practicas - MPI\Practicas\Practica6\obj\Debug\net6.0\Practica6.AssemblyInfoInputs.cache
+C:\Users\W10-PC\Desktop\Metodologia de programacion I\Practicas - MPI\Practicas\Practica6\obj\Debug\net6.0\Practica6.AssemblyInfo.cs
+C:\Users\W10-PC\Desktop\Metodologia de programacion I\Practicas - MPI\Practicas\Practica6\obj\Debug\net6.0\Practica6.csproj.CoreCompileInputs.cache
+C:\Users\W10-PC\Desktop\Metodologia de programacion I\Practicas - MPI\Practicas\Practica6\obj\Debug\net6.0\Practica6.dll
+C:\Users\W10-PC\Desktop\Metodologia de programacion I\Practicas - MPI\Practicas\Practica6\obj\Debug\net6.0\refint\Practica6.dll
+C:\Users\W10-PC\Desktop\Metodologia de programacion I\Practicas - MPI\Practicas\Practica6\obj\Debug\net6.0\Practica6.pdb
+C:\Users\W10-PC\Desktop\Metodologia de programacion I\Practicas - MPI\Practicas\Practica6\obj\Debug\net6.0\Practica6.genruntimeconfig.cache
+C:\Users\W10-PC\Desktop\Metodologia de programacion I\Practicas - MPI\Practicas\Practica6\obj\Debug\net6.0\ref\Practica6.dll
